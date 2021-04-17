@@ -6067,7 +6067,7 @@
                 "text": "I’m out of here."
               },
               {
-                "text": "Please reload this web page to chat with me again."
+                "text": "Please end the chat and start it again to chat with me again."
               }
             ],
             "response_type": "text",
@@ -6149,7 +6149,7 @@
             "selection_policy": "sequential"
           },
           {
-            "source": "https://github.com/heflinstephenraj/nalam/blob/master/Nalam%20logo/Nalam%20size-small.png?raw=true",
+            "source": "https://raw.githubusercontent.com/heflinstephenraj/Nalam-2.0/main/images/Logo.png",
             "response_type": "image"
           }
         ]
